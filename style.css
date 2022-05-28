@@ -17,12 +17,15 @@ body {
   #myHeader{
       font-size: 35px;
   }
-
-  .scores{
-      float: right;
-      text-align: left;  
-      margin-right: 3rem;
+  #score{
+      font-size: 45px;
   }
+
+   .scores{
+      
+     
+      margin-top: 3rem;
+  } 
 
 
   
